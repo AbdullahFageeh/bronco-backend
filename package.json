@@ -1,0 +1,8 @@
+{
+  "name": "bronco-backend",
+  "private": true,
+  "scripts": {
+    "db:push": "supabase db push",
+    "db:reset": "supabase db reset"
+  }
+}
